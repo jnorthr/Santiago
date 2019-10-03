@@ -1,0 +1,56 @@
+= Camino Santiago to Santiago de Compostela - Spain
+jnorthr <james.northrop@orange.fr>
+V0.7, Updated 22 April.2019: A Pilgrimage to a Saint's Grave
+include::_attrs.adoc[]
+:sectanchors:
+:sectlinks:
+:toc: right
+:icons: font
+:imagesdir: ./images
+
+== Pilgrimage
+
+https://en.wikipedia.org/wiki/Camino_de_Santiago[Pilgrimage - Facts and Fiction] - You can see the map of the pilgrim routes taken as they walked from Ireland, and western England, Wales, Cornwall, etc. They crossed into northern France into Bretagne (Brittany) using several ports. From Plymouth, UK to Paimpol they
+crossed on their pilgrimage. 
+
+One traveller chronicals their adventures in 2017. http://www.independent.co.uk/travel/europe/camino-de-santiago-walks-pilgrimage-trail-spain-st-james-path-compostela-luxury-travel-a7877136.html[See the story here.]
+
+
+https://www.lonelyplanet.com/spain/cantabria-asturias-and-galicia/santiago-de-compostela[The Lonely Planet guide] offers another viewpoint to this enchanting journey.
+
+== Official Site
+
+We reviewed the http://santiago-compostela.net[http://santiago-compostela.net] website for even more news and tips and tricks.
+
+ * https://en.wikipedia.org/wiki/Camino_de_Santiago[Camino_de_Santiago]
+ * https://www.independent.co.uk/travel/europe/camino-de-santiago-walks-pilgrimage-trail-spain-st-james-path-compostela-luxury-travel-a7877136.html[St James]
+ * http://santiago-compostela.net/[Compostela]
+ * https://www.lonelyplanet.com/spain/cantabria-asturias-and-galicia/santiago-de-compostela[Lonely Planet]
+ * https://www.caminoadventures.com/blog/the-compostela-trail-in-brittany/[Trail]
+ * http://www.brittanywalks.com/[Brittany Walks]
+ * http://www.bbc.com/travel/story/20190411-the-camino-de-santiagos-ancient-secret[An Ancient Walk the World Forgot] - Cape Finisterre’s mythical pull has drawn travellers since the time of antiquity. But with the rise of Christianity, the route to ‘the end of the world’ became all but forgotten.
+ * https://www.letelegramme.fr/morbihan/gourin/saint-jacques-de-compostelle-2-500-km-contre-la-maladie-de-parkinson-07-04-2016-11022355.php[Gourin]
+ * https://www.compostelle-bretagne.fr/index.php/fr/?option=com_content&view=article&id=5:carte-des-chemins&catid=24:chemin&lang=fr-FR[Map of Route thru Gourin]
+
+== Intro
+
+Apologies for this Ben, as it may bore you to death, but wanted to share this with someone, and as you like blog posts, may make this into a post, if you like. 
+
+Since the early years around 1179 A.D. spiritual pilgrims made a walking pilgrimage from Ireland, Wales and many western U.K. regions. They did this to pay their respects at the Holy Shrine
+of Saint-Jacques de Compostelle de Santiago, in north western Spain. It was thought his tomb held miraculous healing gifts, one touch of which could cure many ills. 
+
+The BBC have just started a renewed interest in this idea. Please see: http://www.bbc.com/travel/story/20190411-the-camino-de-santiagos-ancient-secret[BBC]
+
+I have been researching this topic for some time now. There were a number of pilgrim paths thru Brittany all the way to this shrine. One of these routes is called the 'Voie de Locquirec' leading from the landing point for U.K. pilgrims from the northern port of Locquirec. See the map. This route proceed thru central Brittany coming thru our town of Gourin. Our own Chateau Tronjoly offered pilgrim lodgings for many who walked this path.
+
+Some time ago, i found evidence that pilgrims walked from a town north of us named Spezet, down the D301 road to Gourin and upon reaching Rue De Cleureun they would turn and they would walk down our street in front of our house into the back of the Chateau. https://www.gpsies.com/map.do?fileId=dhrgzdrnsooyhlbp[Click here to see it.]
+
+So our home sits astride a Pilgrimage route !  Always wondered by we had so many walkers in the summer months.
+
+A bit of history for you.  ;-D
+
+
+More info here: https://www.compostelle-bretagne.fr/index.php/fr/?option=com_content&view=article&id=5:carte-des-chemins&catid=24:chemin&lang=fr-FR[More Info]
+
+== Actual 
+  

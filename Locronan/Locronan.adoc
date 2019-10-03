@@ -1,0 +1,44 @@
+= A Hidden Gem in Finistère, Brittany, France
+Ynorthr <eve.northrop@gmail.com>
+V0.7, Updated 22 April.2019: Petite Cité de Caractère 
+include::_attrs.adoc[]
+:sectanchors:
+:sectlinks:
+:toc: right
+:icons: font
+:imagesdir: ./images
+
+== Pilgrimage
+
+[.text-center]
+
+.Locronan Town Centre
+image::locronan.jpg[Locronan,640,480,align="center"]
+
+https://www.brittanytourism.com/destinations/the-10-destinations/quimper-cornouaille/locronan/[Locronan - Facts and Fiction] 
+
+There are so many places to visit in Central Brittany, it is hard to point to one that is more outstanding than the rest. Though most people opt for the coastal areas to buy, the real hidden gems are here in Central Brittany. Do not limit your search for a house to the obvious tourist destinations for they are much more costly. Here we have a legend on every corner, churches with traditional pardons, monoliths, ancient ruins of castles and a host of interesting towns and villages that lend themselves to picture post card prettiness of a bygone age.
+
+There are several very old medieval towns that should be on your “must visit” list though. One that is most charming is Locronan (Finistere). This colourful medieval town is one of the many "Petite Cité de Caractère" scattered all through Brittany. The town is zoned for walking only so you will need to park your car in the car park and walk the hundred yards of so to the town.
+
+== Town Centre
+
+There are rows of the most attractive houses here all painted in medieval colours of dark red, brown ,purple and green. The centre of town is adorned by an ancient well which in summer is decorated with colourful floral displays. Around the well is a unique group of freestone houses dating from the 16th and 17th centuries, when they had a thriving business in canvas making and cloth making. image:Locronan2.jpg[Locronan,320,240,float="right"]
+
+St. Ronan’s church (15th century) and the 15th and 16th century “Penity Chapel,” stand side by side with a museum nearby. These three beautiful buildings form the main attraction of this Celtique town.
+
+The church of St. Ronan has quite a history. The inside of the church is well preserved with ten medallions around the pulpit (1707) and tells the story of St. Ronan. In the right hand side aisle, there is an example of late medieval wood carving in the striking status of Christ awaiting his torturers. Other statues represent St. Ronan, St. Corentin and St. Christopher. The Rosary Reredos dates from way back to the 16th. The sacristy houses the churches treasures. This is best in the Christmas season, when the town is adorned with Christmas lights.
+
+== A Unique, Religious Pardon
+
+image:noel.jpg[Noel,320,240,role="left"]Everything six years, an almost unique, religious pardon is held in Locronan. The *Grand Tromenie* probably comes from the old - “Tour of the monastery lands.” The procession of some kms. Is all around the town and the local area with locals dressed up in traditional clothes. For those lucky enough to see the parade it is a bit like slip sliding back into history. 
+
+
+The ceremony begins on a Sunday morning in July with the saluting of the banners. In the afternoon, the solemn procession gets underway to the sound of drums. As for the Minor Tromenie, (Tour) it is held every year, on the second Sunday of July, less there is to be a Grand Tromenie. (Tour.) The route covers approximately 3 miles.
+
+== Noel - Christmas
+
+Locronan has quite a history so do stop and buy a guide of the town. There is much here to be appreciated. Festivals of Christmas are particularlly well done. 
+
+.Locronan Noel
+image::xmas6.jpg[Noel,320,240,align="center"]
